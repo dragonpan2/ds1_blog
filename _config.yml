@@ -4,7 +4,7 @@ tagline:             'Projet du Groupe 3 du cours IFT 6758 Automne 2022'
 description:         'Projet du Groupe 3 du cours IFT 6758 Automne 2022'
 site_baseurl: "https://dragonpan2.github.io/"
 url: https://dragonpan2.github.io/
-baseurl:             ''
+baseurl: /ds1_blog
 paginate:            5
 permalink:           pretty
 

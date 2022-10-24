@@ -1,0 +1,22 @@
+# Setup
+title:               IFT6758 Blog
+tagline:             'Projet du Groupe 3 du cours IFT 6758 Automne 2022'
+description:         'Projet du Groupe 3 du cours IFT 6758 Automne 2022'
+url:                 ''
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Abbas Guennoun, An Li, Gabin Mazué, Bei Ning Pan
+  url:               https://fracturedplane.notion.site/fracturedplane/Data-Science-Course-IFT6758-A-8173a75da89a40d0bfc1e5ad4bcda5b2
+  email:             ift6758@umontreal.ca
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             0.1.0
+google_analytics_id: #UA-XXXX-Y
